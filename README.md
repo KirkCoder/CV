@@ -22,8 +22,7 @@ Have 3+ years of **team-leading** experience, successfully conducted interviews 
 
 Kotlin, Java, Full Stack, Android , Spring Framework, Microservices, Nginx, Android SDK, Android Jetpack, Post greSQL, SQL, Te a m
 Management, Incident Management, SRE, Agile, Scrum, Kanban, Load balancing, Grafana, Terraform, IaC, ClickHouse, SQLite, Gradle,
-
-## JSON, REST, Protobuf, CI/CD, Git, TeamCity, RxJava 2, Dagger 2, Retrofit, MVVM, MVP, Material designEngineer, Model-View-Presenter, Model-View-Viewmodel, Continuous Integration, Continuous Delivery, Protocol Buffers, Infrastructure as code, Site Reliability Engineering, Team Lead, Mobile Application Development, Docker, Kubernetes, AWS/Azure/Google Cloud, Jenkins, TestNG, Reactive Programming, RESTful API Design/Development, GraphQL, TDD/BDD, DevOps, Apache Kafka, RabbitMQ, NoSQL, API Gateway, Cross-Platform Development , JUnit. Redis. Communication Skills, Good team player, Critical thinking and problem solving, Leadership, Open-mindedness, Effective Time Management, Android Software Engineer, Full Stack Software Engineer, Java Software Engineer, Kotlin Software
+JSON, REST, Protobuf, CI/CD, Git, TeamCity, RxJava 2, Dagger 2, Retrofit, MVVM, MVP, Material designEngineer, Model-View-Presenter, Model-View-Viewmodel, Continuous Integration, Continuous Delivery, Protocol Buffers, Infrastructure as code, Site Reliability Engineering, Team Lead, Mobile Application Development, Docker, Kubernetes, AWS/Azure/Google Cloud, Jenkins, TestNG, Reactive Programming, RESTful API Design/Development, GraphQL, TDD/BDD, DevOps, Apache Kafka, RabbitMQ, NoSQL, API Gateway, Cross-Platform Development , JUnit. Redis. Communication Skills, Good team player, Critical thinking and problem solving, Leadership, Open-mindedness, Effective Time Management, Android Software Engineer, Full Stack Software Engineer, Java Software Engineer, Kotlin Software
 
 ### EXPERIENCE
 
